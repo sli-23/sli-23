@@ -1,10 +1,11 @@
+[![MasterHead](https://pbs.twimg.com/media/FdRbuflakAQPKpc?format=jpg&name=large)](https://twitter.com/yanshoujie/status/1572983644180074496/photo/1)
 <h1 align="center">Hi 🤖️, I'm Shuying Li</h1>
 <h3 align="center">A passionate Data Scientist and potential frontend developer</h3>
-<img align="right" alt="Coding width="400" src= https://www.sankakucomplex.com/wp-content/uploads/2022/08/LycorisRecoil-Episode6-Omake-9.gif">
+<img align="right" alt="Coding width="400" src= https://c.tenor.com/j0cRhrC6r6IAAAAC/yuru-camp-shima-rin.gif">
 
 - 🔭 I’m currently working on **UC Davis Health Dr. Wan Lab**
 
-- :octocat: Ask me pictures about **about my cat**
+- :octocat: Ask me pictures about **about ゆるキャン△⛺️**
 
 - ☕️ 喫茶リコリコ [https://lycoris-recoil.com/cafe_lyco_reco/](https://lycoris-recoil.com/cafe_lyco_reco/)
 
