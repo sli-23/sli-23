@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **UC Davis Health Dr. Wan Lab**
 
+- 📖 I'm currently learning about React
+
 - :octocat: Ask me anything about **ゆるキャン△⛺️,　リコリス・リコイル**
 
 - ☕️ 喫茶リコリコ [https://lycoris-recoil.com/cafe_lyco_reco/](https://lycoris-recoil.com/cafe_lyco_reco/)
