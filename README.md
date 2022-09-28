@@ -1,4 +1,4 @@
-[![MasterHead](https://pbs.twimg.com/media/FdRbuflakAQPKpc?format=jpg&name=large)](https://twitter.com/yanshoujie)
+[![MasterHead](https://pbs.twimg.com/media/FdwIn0PakAAn-Io?format=jpg&name=4096x4096)](https://twitter.com/yanshoujie)
 <h1 align="center">Hi 🤖️, I'm Shuying Li</h1>
 <h3 align="center">A passionate Data Scientist and frontend developer</h3>
 <img align="right" alt="Coding width="400" src= https://c.tenor.com/j0cRhrC6r6IAAAAC/yuru-camp-shima-rin.gif">
